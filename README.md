@@ -1,6 +1,6 @@
 # Discuzz Docs
 
-![thumbnail](preview/thumbnail.png)
+![thumbnail](/static/preview/thumbnail.png)
 
 Discuzz is a web-based instant messaging app that allows you to quickly send and receive text messages, emojis, photos, and audio with other Discuzz users. Discuzz uses its own socket server and works independently, professionally built using **MongoDB, Express, React, Node, and Socket IO**. Suitable for those of you who are interested in learning the workflow of messaging apps.
 
@@ -62,39 +62,39 @@ Discuzz is a web-based instant messaging app that allows you to quickly send and
 
 #### Light
 
-|                                             |
-| :-----------------------------------------: |
-| ![light-desktop](preview/light-desktop.png) |
+|                                                     |
+| :-------------------------------------------------: |
+| ![light-desktop](/static/preview/light-desktop.png) |
 
-|                                   |                                   |                                   |
-| :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| ![light-01](preview/light-01.png) | ![light-02](preview/light-02.png) | ![light-03](preview/light-03.png) |
-| ![light-04](preview/light-04.png) | ![light-05](preview/light-05.png) | ![light-06](preview/light-06.png) |
-| ![light-07](preview/light-07.png) | ![light-08](preview/light-08.png) | ![light-09](preview/light-09.png) |
-| ![light-10](preview/light-10.png) | ![light-11](preview/light-11.png) | ![light-12](preview/light-12.png) |
-| ![light-13](preview/light-13.png) | ![light-14](preview/light-14.png) | ![light-15](preview/light-15.png) |
-| ![light-16](preview/light-16.png) | ![light-17](preview/light-17.png) | ![light-18](preview/light-18.png) |
-| ![light-19](preview/light-19.png) | ![light-20](preview/light-20.png) | ![light-21](preview/light-21.png) |
-| ![light-22](preview/light-22.png) | ![light-23](preview/light-23.png) | ![light-24](preview/light-24.png) |
-| ![light-25](preview/light-25.png) | ![light-26](preview/light-26.png) | ![light-27](preview/light-27.png) |
+|                                           |                                           |                                           |
+| :---------------------------------------: | :---------------------------------------: | :---------------------------------------: |
+| ![light-01](/static/preview/light-01.png) | ![light-02](/static/preview/light-02.png) | ![light-03](/static/preview/light-03.png) |
+| ![light-04](/static/preview/light-04.png) | ![light-05](/static/preview/light-05.png) | ![light-06](/static/preview/light-06.png) |
+| ![light-07](/static/preview/light-07.png) | ![light-08](/static/preview/light-08.png) | ![light-09](/static/preview/light-09.png) |
+| ![light-10](/static/preview/light-10.png) | ![light-11](/static/preview/light-11.png) | ![light-12](/static/preview/light-12.png) |
+| ![light-13](/static/preview/light-13.png) | ![light-14](/static/preview/light-14.png) | ![light-15](/static/preview/light-15.png) |
+| ![light-16](/static/preview/light-16.png) | ![light-17](/static/preview/light-17.png) | ![light-18](/static/preview/light-18.png) |
+| ![light-19](/static/preview/light-19.png) | ![light-20](/static/preview/light-20.png) | ![light-21](/static/preview/light-21.png) |
+| ![light-22](/static/preview/light-22.png) | ![light-23](/static/preview/light-23.png) | ![light-24](/static/preview/light-24.png) |
+| ![light-25](/static/preview/light-25.png) | ![light-26](/static/preview/light-26.png) | ![light-27](/static/preview/light-27.png) |
 
 #### Dark
 
-|                                            |
-| :----------------------------------------: |
-| ![light-desktop](preview/dark-desktop.png) |
+|                                                    |
+| :------------------------------------------------: |
+| ![light-desktop](/static/preview/dark-desktop.png) |
 
-|                                 |                                 |                                 |
-| :-----------------------------: | :-----------------------------: | :-----------------------------: |
-| ![dark-01](preview/dark-01.png) | ![dark-02](preview/dark-02.png) | ![dark-03](preview/dark-03.png) |
-| ![dark-04](preview/dark-04.png) | ![dark-05](preview/dark-05.png) | ![dark-06](preview/dark-06.png) |
-| ![dark-07](preview/dark-07.png) | ![dark-08](preview/dark-08.png) | ![dark-09](preview/dark-09.png) |
-| ![dark-10](preview/dark-10.png) | ![dark-11](preview/dark-11.png) | ![dark-12](preview/dark-12.png) |
-| ![dark-13](preview/dark-13.png) | ![dark-14](preview/dark-14.png) | ![dark-15](preview/dark-15.png) |
-| ![dark-16](preview/dark-16.png) | ![dark-17](preview/dark-17.png) | ![dark-18](preview/dark-18.png) |
-| ![dark-19](preview/dark-19.png) | ![dark-20](preview/dark-20.png) | ![dark-21](preview/dark-21.png) |
-| ![dark-22](preview/dark-22.png) | ![dark-23](preview/dark-23.png) | ![dark-24](preview/dark-24.png) |
-| ![dark-25](preview/dark-25.png) | ![dark-26](preview/dark-26.png) | ![dark-27](preview/dark-27.png) |
+|                                         |                                         |                                         |
+| :-------------------------------------: | :-------------------------------------: | :-------------------------------------: |
+| ![dark-01](/static/preview/dark-01.png) | ![dark-02](/static/preview/dark-02.png) | ![dark-03](/static/preview/dark-03.png) |
+| ![dark-04](/static/preview/dark-04.png) | ![dark-05](/static/preview/dark-05.png) | ![dark-06](/static/preview/dark-06.png) |
+| ![dark-07](/static/preview/dark-07.png) | ![dark-08](/static/preview/dark-08.png) | ![dark-09](/static/preview/dark-09.png) |
+| ![dark-10](/static/preview/dark-10.png) | ![dark-11](/static/preview/dark-11.png) | ![dark-12](/static/preview/dark-12.png) |
+| ![dark-13](/static/preview/dark-13.png) | ![dark-14](/static/preview/dark-14.png) | ![dark-15](/static/preview/dark-15.png) |
+| ![dark-16](/static/preview/dark-16.png) | ![dark-17](/static/preview/dark-17.png) | ![dark-18](/static/preview/dark-18.png) |
+| ![dark-19](/static/preview/dark-19.png) | ![dark-20](/static/preview/dark-20.png) | ![dark-21](/static/preview/dark-21.png) |
+| ![dark-22](/static/preview/dark-22.png) | ![dark-23](/static/preview/dark-23.png) | ![dark-24](/static/preview/dark-24.png) |
+| ![dark-25](/static/preview/dark-25.png) | ![dark-26](/static/preview/dark-26.png) | ![dark-27](/static/preview/dark-27.png) |
 
 ## Support
 
